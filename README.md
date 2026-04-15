@@ -15,10 +15,10 @@ Je cherche à réduire l'écart entre les deux.
 
 ### 🧰 Stack
 
-**Langages** Python · JavaScript/TypeScript · Java · C#
-**IA appliquée** API LLM (Claude, OpenAI, OpenRouter, Opencode) · FastAPI · agents · optimisation tokens
-**Infra & DevOps** Docker · Kubernetes · Ansible · Terraform · GitHub Actions · Jenkins
-**Data** PostgreSQL · MySQL · ElasticSearch · Redis
+- **Langages** Python · JavaScript/TypeScript · Java · C#
+- **IA appliquée** API LLM (Claude, OpenAI, OpenRouter, Opencode) · FastAPI · agents · optimisation tokens
+- **Infra & DevOps** Docker · Kubernetes · Ansible · Terraform · GitHub Actions · Jenkins
+- **Data** PostgreSQL · MySQL · ElasticSearch · Redis
 
 ### 📫 Me contacter
 
@@ -44,10 +44,10 @@ I'm trying to close the gap between the two.
 
 ### 🧰 Stack
 
-**Languages** Python · JavaScript/TypeScript · Java · C#
-**Applied AI** LLM APIs (Claude, OpenAI, OpenRouter, OpenCode) · FastAPI · agents · token optimization
-**Infra & DevOps** Docker · Kubernetes · Ansible · Terraform · GitHub Actions · Jenkins
-**Data** PostgreSQL · MySQL · ElasticSearch · Redis
+- **Languages** Python · JavaScript/TypeScript · Java · C#
+- **Applied AI** LLM APIs (Claude, OpenAI, OpenRouter, OpenCode) · FastAPI · agents · token optimization
+- **Infra & DevOps** Docker · Kubernetes · Ansible · Terraform · GitHub Actions · Jenkins
+- **Data** PostgreSQL · MySQL · ElasticSearch · Redis
 
 ### 📫 Reach out
 
