@@ -39,7 +39,7 @@ I'm trying to close the gap between the two.
 ### 🛠️ What I'm currently building
 
 - **AmaiTalk** — Mobile conversational app (Unity, C#). Hybrid architecture: LLM, TTS, on-device STT and lip sync.
-- **AI Digest** — Pipeline that grabs my X feed, runs it through an LLM (OpenRouter, recently Minimax) and ships a themed digest to Discord. FastAPI backend, React frontend, deployed on a personal VPS.
+- **AI Digest** — Pipeline that grabs my X feed, runs it through an LLM and ships a themed digest to Discord. FastAPI backend, React frontend, deployed on a personal VPS.
 - **Hermes Agent** — NousResearch's Hermes configured as a Discord conversational agent with per-channel contextual replies.
 
 ### 🧰 Stack
